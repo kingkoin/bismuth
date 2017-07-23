@@ -1,0 +1,1 @@
+/Miner/miner user fd3b75f8bc6d1c76f5cf9b080fead0ea627cfb1c80de057d335e805a scgrig 1
